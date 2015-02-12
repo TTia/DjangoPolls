@@ -1,0 +1,23 @@
+ieyes
+=====
+parse backend
+nativa mobile?
+lato web integrato con parse (django)
+phonegap - pdf non chiudibile
+
+Pharmagenius
+============
+CRM americano
+Sito ASP.NET
+Comunicazione via end-point tramite json
+
+Cartella Gaetano Pini
+=====================
+Cartella reum.
+Attualmente access con maschere
+Porting a tecnologie web-based
+  Entro Maggio?
+  Sicuramente entro l'anno
+
+Aderencia
+=========
